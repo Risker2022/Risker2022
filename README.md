@@ -3,7 +3,7 @@ Hi, I am Risker2022, a python programmer. Here are some facts about me and what 
 - I am based in Singapore
 - Been doing programming for over 3 years
 - Worked on projects mostly with python
-- Doing freelancing on [https://www.fiverr.com/risker2022](Fiverr) 
+- Doing freelancing on [https://www.fiverr.com/risker2022]
 - Learning Web Development with the notice board project (Risker2022/NoticeBoard)
 
 - ... and still confused by data structures and algorithms
